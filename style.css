@@ -1,0 +1,187 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    width: 100%;
+}
+.container{
+    width:80% ;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.header-iner{
+    width: 100%;
+}
+.main-icon{
+   width: 100%;
+    height: 100px;
+    display: flex;
+}
+.icon-valanta{
+    width: 259px;
+    height: 100px;
+
+}
+.icon-valanta_img{
+ width: 131px;
+ height: 72px;
+}
+.ua_ru{
+    width: 80px;
+    height: 100px;
+    border-left: 2px solid rgb(179, 179, 179);
+    border-right: 2px solid rgb(179, 179, 179);
+}
+.ua_text{
+    width: 22px;
+    height: 21px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 29px;
+    
+}
+.ru_text{
+    width: 24px;
+    height: 21px;
+    background-color: rgb(59, 199, 105);
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 29px;
+}
+.text_USD_EUR{
+    width: 126px;
+    height: 100px;
+}
+.usd-eur-text{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 20px;
+}
+.icon_i_f_y{
+    width: 136px;
+    color: rgb(131, 131, 131);
+    border-left: 2px solid rgb(179, 179, 179);
+    border-right: 2px solid rgb(179, 179, 179);
+    
+}
+.icon-margin{
+    width: 136px;
+    margin-left: 25px;
+}
+.icon_i_f_y i {
+    width: 20px;
+    height: 20px;
+    margin-top: 30px;
+    
+}
+.phone{
+    width: 225px;
+    display: flex;
+    
+}
+.phone-dop{
+    font-weight: bold;
+}
+.fa-mobile{
+    width: 39px;
+    height: 39px;
+}
+.onlain{
+    width: 614px;
+    display: flex;
+    border-left: 2px solid rgb(179, 179, 179);
+}
+.maistra_onlain{
+    width: 240px;
+    height: 55px;
+    display: flex;
+}
+.tur_onlain{
+    width: 205px;
+    height: 55px;
+    display: flex;
+}
+.maistra-text{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+
+
+
+.menu{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+ul li{
+    display: inline;
+    
+}
+ul{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    top: 23px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.picture{
+    width: 100%;
+    height: 490px;
+    background: url(./img/maxresdefaul.png) no-repeat;
+    background-size: cover;
+    
+    
+}
+.picture-container{
+    width:80% ;
+    max-width: 1400px;
+    margin: 0 auto;
+    position: relative;
+}
+.eur{
+    width: 249px;
+    height: 45px;
+    border: 1px solid rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 50px;
+    left: 150px;
+
+}
+.new-hostel{
+    width: 725;
+    height: 102px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 145px;
+  
+}
+.podrobn{
+    width: 270px;
+    height: 60px;
+  padding: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    background-color: rgba(255, 255, 255, 0.247);
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 202px;
+    top: 509px;
+}
